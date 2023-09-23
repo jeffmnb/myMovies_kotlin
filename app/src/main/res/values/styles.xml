@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ImgProfileStyle">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="searchViewStyles">
+        <item name="editTextColor">@color/white</item>
+        <item name="tint">@color/white</item>
+        <item name="searchIcon">@drawable/search_icon</item>
+    </style>
+
+    <style name="posterStyle">
+        <item name="cornerSize">15%</item>
+    </style>
+</resources>
